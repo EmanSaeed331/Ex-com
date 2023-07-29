@@ -33,10 +33,23 @@ $ npm run test:cov
 ```
 
 # Schema design 
-![Schema Design ](Diagrams/schema-design.png)
+![ Schema Design ](Diagrams/schema-design.png)
 
 # Authentication Solution 
-![Schema Design ](Diagrams/authentication_solution.PNG)
+![ Authentication Solution  ](Diagrams/authentication_solution.PNG)
 
-#  REST Endpoints  
-![Schema Design ](Diagrams/endpoints.png)
+#  REST Endpoints 
+## user
+![Schema Design ](Diagrams/endpoints/user.endpoints.drawio.png)
+
+## stores
+![Schema Design ](Diagrams/endpoints/stores.endpoints.drawio.png)
+
+## reviews
+![Schema Design ](Diagrams/endpoints/review.endpoint.drawio.png)
+
+## products
+![Schema Design ](Diagrams/endpoints/products.endpoints.drawio.png)
+
+## orders
+![Schema Design ](Diagrams/endpoints/order.endpoint.drawio.png)
